@@ -42,7 +42,7 @@ To build and run this module, you need a Linux environment with kernel module su
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Kernel-Task-Viewer.git
+    git clone https://github.com/rohan-chandrashekar/Kernel-Task-Viewer.git
     cd Kernel-Task-Viewer
     ```
 
@@ -110,17 +110,5 @@ After loading the module, you can use `dmesg` to view the output:
 ```
 
 The output will show the state of every process, its PID, its parent PID, and its name.
-
----
-
-### Author
-
-*Developed by [Rohan Chandrashekar]*  
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, feel free to fork the repository and submit a pull request with your changes.
 
 ---
